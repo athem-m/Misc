@@ -11,6 +11,10 @@ List of my Projects
   - Charges [NBViewer](https://nbviewer.org/github/athem-m/Practice-Data-Sets/blob/master/charges/charges-da.ipynb)
   - Personal [NBViewer](https://nbviewer.org/github/athem-m/Practice-Data-Sets/blob/master/personal/personal-da.ipynb)
 
+## Python
+
+- [Dodger Game](https://github.com/athem-m/dodger_game)
+
 ## Other
 
 - [Personal Website](https://athem-m.github.io/)
