@@ -15,6 +15,7 @@ List of my Projects
 
 - [Dodger Game](https://github.com/athem-m/dodger_game)
 
-## Other
+<!--## Other
 
 - [Personal Website](https://athem-m.github.io/)
+-->
